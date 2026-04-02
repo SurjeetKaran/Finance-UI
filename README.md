@@ -7,6 +7,9 @@ Finance Dashboard UI
 Finance Dashboard UI is a frontend-only dashboard built with React + Vite.
 It focuses on expense tracking and role-based interaction using mock transaction data.
 
+### Live Demo
+- https://finance-ui-sigma.vercel.app/
+
 The current implementation includes:
 - Dashboard summary cards
 - Trend and category charts
